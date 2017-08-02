@@ -1,1 +1,1 @@
-include ':app', ':myvideo', ':myvideo'
+include ':app', ':myvideo', ':myvideo', ':OCR'
